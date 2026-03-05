@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Mokgadi Magongwa
 
-<!--
-**kgadi123/kgadi123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity Analyst | Python Developer
 
-Here are some ideas to get you started:
+I am passionate about cybersecurity, threat detection, and building security tools with Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Certifications:
+- SC-100 Cybersecurity Architect
+- SC-200 Security Operations Analyst
+- SC-300 Identity and Access Administrator
+- AZ-500 Azure Security Engineer
+
+Skills:
+- Python
+- Security Log Analysis
+- Identity Security
+- Cloud Security
+- REST APIs
+
+Projects:
+- Security Log Analyzer
+- Python Port Scanner
+- Employee Management API
